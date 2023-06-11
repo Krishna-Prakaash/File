@@ -81,7 +81,7 @@ public class program
 ```
 
 ## Output:
-![ex10](https://github.com/Krishna-Prakaash/File/assets/93427144/2d12ad35-8f35-4daf-bb66-f89c4479667a)
+![ex10 (2)](https://github.com/Krishna-Prakaash/File/assets/93427144/7839f06c-cf2a-44e9-a3c1-7c63df1194ce)
 
 ## Result:
 Thus a C# program to store the student details in file using structure concept is implemented successfully.
